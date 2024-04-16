@@ -1,3 +1,4 @@
+install node package module first [npm i]
 to start 
 yarn start
 if require
